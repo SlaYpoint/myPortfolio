@@ -142,3 +142,8 @@ footer .link{
 footer ul{
     padding-inline-start: 0px;
 }
+
+/* project page */
+.showcase-reel{
+    padding: 2rem;
+}
